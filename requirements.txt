@@ -1,8 +1,0 @@
-google-generativeai
-requests
-
-
-##transformers
-##torch
-##langchain
-##langchain-huggingface
